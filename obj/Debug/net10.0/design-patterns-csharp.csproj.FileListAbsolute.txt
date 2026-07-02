@@ -1,0 +1,15 @@
+C:\Projects\design-patterns-csharp\bin\Debug\net10.0\design-patterns-csharp.exe
+C:\Projects\design-patterns-csharp\bin\Debug\net10.0\design-patterns-csharp.deps.json
+C:\Projects\design-patterns-csharp\bin\Debug\net10.0\design-patterns-csharp.runtimeconfig.json
+C:\Projects\design-patterns-csharp\bin\Debug\net10.0\design-patterns-csharp.dll
+C:\Projects\design-patterns-csharp\bin\Debug\net10.0\design-patterns-csharp.pdb
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.AssemblyInfoInputs.cache
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.AssemblyInfo.cs
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.csproj.CoreCompileInputs.cache
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.sourcelink.json
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.dll
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\refint\design-patterns-csharp.dll
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.pdb
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\design-patterns-csharp.genruntimeconfig.cache
+C:\Projects\design-patterns-csharp\obj\Debug\net10.0\ref\design-patterns-csharp.dll
